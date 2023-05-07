@@ -19,7 +19,7 @@
 <img src="https://rm.up.railway.app/" width="512px"/>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=chark1es&icon=5&color=12)](https://visitcount.itsvg.in)
+[![](https://web.chark1es.org/programming_memes/onlyImage.html)]
 
   ## 💰 You can help me by Donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/chark1es) [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/chark1es) 
